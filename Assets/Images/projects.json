@@ -1,0 +1,33 @@
+[
+  {
+    "title": "Sales Dashboard in Excel",
+    "description": "Designed an Excel dashboard to visualize bookstore performance through KPIs such as total revenue, inventory levels, top-selling genres, customer distribution, and monthly order trends. Used pivot tables, formulas, slicers, and dynamic charts to turn raw data into actionable business insights.",
+    "image": "assets/images/sales_dashboard.png",
+    "link": "https://github.com/yourusername/sales-dashboard"
+  },
+  {
+    "title": "E-commerce Sales & Customer Analysis in Excel",
+    "description": "Built an advanced Excel reporting file to analyze customer behaviour, order patterns, product performance, discount impact, and revenue contribution by city and payment modes. Used pivot charts, slicers, conditional formatting, and automated calculations to present clean and meaningful insights.",
+    "image": "assets/images/sql_project.png",
+    "link": "https://github.com/yourusername/sql-project"
+  },
+  {
+    "title": "Tableau BI Dashboard",
+    "description": "Built a visually rich Tableau dashboard that highlights genre-wise sales, customer demographics, bestselling books, revenue patterns, and stock remaining. Includes interactive filters, drill-down views, and KPI scorecards for clear business storytelling and data-driven decision-making.",
+    "image": "assets/images/tableau_project.png",
+    "link": "https://public.tableau.com/views/yourdashboard"
+  },
+  {
+    "title": "End-to-End E-commerce Data Analysis With SQL",
+    "description": "A full-scale SQL project analyzing customer behaviour, product performance, order trends, revenue growth, and review patterns for an e-commerce platform. Includes creatio of multi-table schema (customers, products, orders, order_items, reviews) and 25+ analytics queries. Key insights include top customers, loyal buyer identification, city-wise revenue contribution, product profitability, discount impact, category analysis, payment mode patterns, and rating trends. This project showcases strong SQL proficiency with joins, window functions, ranking, aggregations, and real-world e-commerce business intelligence.",
+    "image": "assets/images/market_dashboard.png",
+    "link": "https://github.com/yourusername/market-dashboard"
+  },
+  {
+    "title": "Bookstore Sales &
+Inventory Analysis",
+    "description": A comprehensive SQL-based analysis of a bookstore dataset covering inventory tracking, customer segmentation, sales performance, revenue generation, and advanced analytical queries. Implemented relational tables for Books, Customers, and Orders, followed by 20+ analytical queries including genre-wise sales, most profitable books, customer purchase behaviour, stock remaining after sales, and overall revenue insights. This project demonstrates strong command over joins, aggregations, window functions, and real-world business analysis using SQL.",
+    "image": "assets/images/finance_project.png",
+    "link": "https://github.com/yourusername/finance-project"
+  }
+]
