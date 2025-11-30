@@ -24,7 +24,7 @@ Tableau — Interactive Dashboards, BI Storytelling, KPIs
 
 Description:
 Designed an Excel dashboard to visualize bookstore performance through KPIs such as total revenue, inventory levels, top-selling genres, customer distribution, and monthly order trends. Used pivot tables, formulas, slicers, and dynamic charts to convert raw data into actionable insights.
-Link: https://github.com/yourusername/sales-dashboard
+![VIEW](htt[s://img.shields.io/badge/VIEW-Project-yellow)(https://github.com/Shayan-Jamal/Home-Decor-Project)
 ![Sales Dashboard](Assets/Images/Project%201%20(excel).png)
 
 
@@ -34,7 +34,7 @@ Link: https://github.com/yourusername/sales-dashboard
 
 Description:
 Built an advanced Excel reporting file to analyze customer behaviour, order patterns, product performance, discount impact, and revenue contribution by city and payment modes. Includes pivot charts, slicers, automated calculations, and clean visual storytelling.
-Link:https://github.com/Shayan-Jamal/E-commerce-store-sales-dashboard-project-
+![VIEW](htt[s://img.shields.io/badge/VIEW-Project-yellow)(https://github.com/Shayan-Jamal/E-commerce-store-sales-dashboard-project-)
 ![E-commerce Excel](Assets/Images/Project%202(excel).png)
 
 ---
@@ -54,7 +54,7 @@ Link: https://public.tableau.com/views/yourdashboard
 Description:
 A full-scale SQL project analyzing customer behaviour, product performance, order trends, revenue growth, and review patterns for an e-commerce platform. Includes creation of multi-table schema and 25+ analytics queries.
 Key insights include top customers, loyal buyer identification, profitable products, discount impact, category trends, payment mode patterns, and rating analysis.
-Link: https://github.com/yourusername/market-dashboard
+![VIEW](htt[s://img.shields.io/badge/VIEW-Project-yellow)(https://github.com/Shayan-Jamal/Bookstore-SQL-Project)
 ![SQL Project 1](Assets/Images/project%201%20(sql).png)
 
 
@@ -64,7 +64,7 @@ Link: https://github.com/yourusername/market-dashboard
 
 Description:
 A comprehensive SQL-based analysis covering inventory tracking, customer segmentation, genre sales, revenue patterns, stock remaining, and 20+ analytical queries. Demonstrates expertise in joins, aggregations, window functions, and business intelligence.
-Link: https://github.com/yourusername/finance-project
+![VIEW](htt[s://img.shields.io/badge/VIEW-Project-yellow)(https://github.com/Shayan-Jamal/E_commerce-Data-SQL-Project)
 ![SQL Project 2](Assets/Images/project%202%20(sql).png)
 
 ---
