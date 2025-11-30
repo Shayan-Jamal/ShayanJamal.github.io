@@ -24,9 +24,8 @@
     "link": "https://github.com/yourusername/market-dashboard"
   },
   {
-    "title": "Bookstore Sales &
-Inventory Analysis",
-    "description": A comprehensive SQL-based analysis of a bookstore dataset covering inventory tracking, customer segmentation, sales performance, revenue generation, and advanced analytical queries. Implemented relational tables for Books, Customers, and Orders, followed by 20+ analytical queries including genre-wise sales, most profitable books, customer purchase behaviour, stock remaining after sales, and overall revenue insights. This project demonstrates strong command over joins, aggregations, window functions, and real-world business analysis using SQL.",
+    "title": "Bookstore Sales & Inventory Analysis",
+    "description": "A comprehensive SQL-based analysis of a bookstore dataset covering inventory tracking, customer segmentation, sales performance, revenue generation, and advanced analytical queries. Implemented relational tables for Books, Customers, and Orders, followed by 20+ analytical queries including genre-wise sales, most profitable books, customer purchase behaviour, stock remaining after sales, and overall revenue insights. This project demonstrates strong command over joins, aggregations, window functions, and real-world business analysis using SQL.",
     "image": "Assets/Images/project 1 (sql).png",
     "link": "https://github.com/yourusername/finance-project"
   }
