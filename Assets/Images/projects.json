@@ -2,7 +2,7 @@
   {
     "title": "Sales Dashboard in Excel",
     "description": "Designed an Excel dashboard to visualize bookstore performance through KPIs such as total revenue, inventory levels, top-selling genres, customer distribution, and monthly order trends. Used pivot tables, formulas, slicers, and dynamic charts to turn raw data into actionable business insights.",
-    <img src="Assets/Images/Project 1 (excel).png" alt="Project Screenshot" />
+    "image": "Assets/Images/Project 1 (excel).png"
     "link": "https://github.com/yourusername/sales-dashboard"
   },
   {
