@@ -43,7 +43,7 @@ Built an advanced Excel reporting file to analyze customer behaviour, order patt
 
 Description:
 Created a visually rich Tableau dashboard highlighting genre-wise sales, demographics, bestselling books, revenue patterns, and stock insights. Includes interactive filters, drill-downs, KPIs, and business storytelling.
-Link: https://public.tableau.com/views/yourdashboard
+[![VIEW](https://img.shields.io/badge/VIEW-Project-yellow)](https://public.tableau.com/app/profile/shayan.jamal/viz/Book1_17619673221770/Dashboard1)
 ![Tableau Dashboard](Assets/Images/project%201(tableau).png)
 
 
