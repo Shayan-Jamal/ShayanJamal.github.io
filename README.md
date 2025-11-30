@@ -34,7 +34,7 @@ Link: https://github.com/yourusername/sales-dashboard
 
 Description:
 Built an advanced Excel reporting file to analyze customer behaviour, order patterns, product performance, discount impact, and revenue contribution by city and payment modes. Includes pivot charts, slicers, automated calculations, and clean visual storytelling.
-Link: https://github.com/yourusername/sql-project
+Link:https://github.com/Shayan-Jamal/E-commerce-store-sales-dashboard-project-
 ![E-commerce Excel](Assets/Images/Project%202(excel).png)
 
 ---
