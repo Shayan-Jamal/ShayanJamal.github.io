@@ -20,7 +20,17 @@ Tableau — Interactive Dashboards, BI Storytelling, KPIs
 
 📂 Projects
 
-📁 1. Sales Dashboard in Excel
+📁 1. E-commerce Sales & Customer Analysis in Excel
+
+Description:
+Designed an Excel dashboard to visualize products performance through table of top 5 products with highest sales,table of top 5 products with highest profit etc. Used pivot tables, slicers, and dynamic charts to convert raw data into actionable insights.
+[![VIEW](https://img.shields.io/badge/VIEW-Project-yellow)](https://github.com/Shayan-Jamal/E-commerce-store-sales-dashboard-project-)
+![E-commerce Excel](Assets/Images/Project%202(excel).png)
+
+---
+
+
+📁 2. Sales Dashboard in Excel
 
 Description:
 Designed an Excel dashboard to visualize bookstore performance through KPIs such as total revenue, inventory levels, top-selling genres, customer distribution, and monthly order trends. Used pivot tables, formulas, slicers, and dynamic charts to convert raw data into actionable insights.
@@ -30,14 +40,6 @@ Designed an Excel dashboard to visualize bookstore performance through KPIs such
 
 ---
 
-📁 2. E-commerce Sales & Customer Analysis in Excel
-
-Description:
-Built an advanced Excel reporting file to analyze customer behaviour, order patterns, product performance, discount impact, and revenue contribution by city and payment modes. Includes pivot charts, slicers, automated calculations, and clean visual storytelling.
-[![VIEW](https://img.shields.io/badge/VIEW-Project-yellow)](https://github.com/Shayan-Jamal/E-commerce-store-sales-dashboard-project-)
-![E-commerce Excel](Assets/Images/Project%202(excel).png)
-
----
 
 📁 3. Tableau BI Dashboard
 
