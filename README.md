@@ -56,9 +56,8 @@ Built a visually rich Tableau HR dashboard containing KPI of Total Employs and g
 Description:
 A full-scale SQL project analyzing customer behaviour, product performance, order trends, revenue growth, and review patterns for an e-commerce platform. Includes creation of multi-table schema and 25+ analytics queries.
 Key insights include top customers, loyal buyer identification, profitable products, discount impact, category trends, payment mode patterns, and rating analysis.
-[![VIEW](https://img.shields.io/badge/VIEW-Project-yellow)](https://github.com/Shayan-Jamal/Bookstore-SQL-Project)
-![SQL Project 1](Assets/Images/project%201%20(sql).png)
-
+[![VIEW](https://img.shields.io/badge/VIEW-Project-yellow)](https://github.com/Shayan-Jamal/E_commerce-Data-SQL-Project)
+![SQL Project 2](Assets/Images/project%202%20(sql).png)
 
 ---
 
@@ -66,8 +65,8 @@ Key insights include top customers, loyal buyer identification, profitable produ
 
 Description:
 A comprehensive SQL-based analysis covering inventory tracking, customer segmentation, genre sales, revenue patterns, stock remaining, and 20+ analytical queries. Demonstrates expertise in joins, aggregations, window functions, and business intelligence.
-[![VIEW](https://img.shields.io/badge/VIEW-Project-yellow)](https://github.com/Shayan-Jamal/E_commerce-Data-SQL-Project)
-![SQL Project 2](Assets/Images/project%202%20(sql).png)
+[![VIEW](https://img.shields.io/badge/VIEW-Project-yellow)](https://github.com/Shayan-Jamal/Bookstore-SQL-Project)
+![SQL Project 1](Assets/Images/project%201%20(sql).png)
 
 ---
 
