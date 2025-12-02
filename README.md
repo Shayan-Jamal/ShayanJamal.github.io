@@ -20,7 +20,7 @@ Tableau — Interactive Dashboards, BI Storytelling, KPIs
 
 📂 Projects
 
-📁 1. E-commerce Sales & Customer Analysis in Excel
+📁 1. E-commerce Sales & Profit Dashboard
 
 Description:
 Built an Excel dashboard to visualize sales insights.Depict Total Sales, Total Profit and used charts to make the dashboard more understandable.Also used slicers for months, years and state. 
