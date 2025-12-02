@@ -23,7 +23,7 @@ Tableau — Interactive Dashboards, BI Storytelling, KPIs
 📁 1. E-commerce Sales & Customer Analysis in Excel
 
 Description:
-Designed an Excel dashboard to visualize products performance through table of top 5 products with highest sales,table of top 5 products with highest profit etc. Used pivot tables, slicers, and dynamic charts to convert raw data into actionable insights.
+Designed an Excel dashboard to visualize sales insights.Depict Total Sales, Total Profit and used charts to make the dashboard more understandable.Also used slicers for months and year. 
 [![VIEW](https://img.shields.io/badge/VIEW-Project-yellow)](https://github.com/Shayan-Jamal/E-commerce-store-sales-dashboard-project-)
 ![E-commerce Excel](Assets/Images/Project%202(excel).png)
 
