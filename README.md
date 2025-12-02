@@ -23,7 +23,7 @@ Tableau — Interactive Dashboards, BI Storytelling, KPIs
 📁 1. E-commerce Sales & Customer Analysis in Excel
 
 Description:
-Designed an Excel dashboard to visualize sales insights.Depict Total Sales, Total Profit and used charts to make the dashboard more understandable.Also used slicers for months, years and state. 
+Built an Excel dashboard to visualize sales insights.Depict Total Sales, Total Profit and used charts to make the dashboard more understandable.Also used slicers for months, years and state. 
 [![VIEW](https://img.shields.io/badge/VIEW-Project-yellow)](https://github.com/Shayan-Jamal/E-commerce-store-sales-dashboard-project-)
 ![E-commerce Excel](Assets/Images/Project%202(excel).png)
 
@@ -33,7 +33,7 @@ Designed an Excel dashboard to visualize sales insights.Depict Total Sales, Tota
 📁 2. Sales Dashboard in Excel
 
 Description:
-Designed an Excel dashboard to visualize products performance through table of top 5 products with highest sales,table of top 5 products with highest profit etc. Used pivot tables, slicers, and dynamic charts to convert raw data into actionable insights.
+Built an Excel dashboard to visualize products performance through table of top 5 products with highest sales,table of top 5 products with highest profit etc. Used pivot tables, slicers, and dynamic charts to convert raw data into actionable insights.
 [![VIEW](https://img.shields.io/badge/VIEW-Project-yellow)](https://github.com/Shayan-Jamal/Home-Decor-Project)
 ![Sales Dashboard](Assets/Images/Project%201%20(excel).png)
 
@@ -44,7 +44,7 @@ Designed an Excel dashboard to visualize products performance through table of t
 📁 3. Tableau BI Dashboard
 
 Description:
-Created a visually rich Tableau dashboard highlighting genre-wise sales, demographics, bestselling books, revenue patterns, and stock insights. Includes interactive filters, drill-downs, KPIs, and business storytelling.
+Built a visually rich Tableau HR dashboard highlighting genre-wise sales, demographics, bestselling books, revenue patterns, and stock insights. Includes interactive filters, drill-downs, KPIs, and business storytelling.
 [![VIEW](https://img.shields.io/badge/VIEW-Project-yellow)](https://public.tableau.com/app/profile/shayan.jamal/viz/Book1_17619673221770/Dashboard1)
 ![Tableau Dashboard](Assets/Images/project%201(tableau).png)
 
