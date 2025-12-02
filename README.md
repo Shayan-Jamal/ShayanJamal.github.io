@@ -33,7 +33,7 @@ Designed an Excel dashboard to visualize products performance through table of t
 📁 2. Sales Dashboard in Excel
 
 Description:
-Designed an Excel dashboard to visualize bookstore performance through KPIs such as total revenue, inventory levels, top-selling genres, customer distribution, and monthly order trends. Used pivot tables, formulas, slicers, and dynamic charts to convert raw data into actionable insights.
+Designed an Excel dashboard to visualize products performance through table of top 5 products with highest sales,table of top 5 products with highest profit etc. Used pivot tables, slicers, and dynamic charts to convert raw data into actionable insights.
 [![VIEW](https://img.shields.io/badge/VIEW-Project-yellow)](https://github.com/Shayan-Jamal/Home-Decor-Project)
 ![Sales Dashboard](Assets/Images/Project%201%20(excel).png)
 
