@@ -44,7 +44,7 @@ Built an Excel dashboard to visualize products performance through table of top 
 📁 3. Tableau BI Dashboard
 
 Description:
-Built a visually rich Tableau HR dashboard highlighting genre-wise sales, demographics, bestselling books, revenue patterns, and stock insights. Includes interactive filters, drill-downs, KPIs, and business storytelling.
+Built a visually rich Tableau HR dashboard containing KPI of Total Employs and gender division of employs depicted by a donut chart.Used bar graphs, line graphs, donut chart depicting info about Employs.
 [![VIEW](https://img.shields.io/badge/VIEW-Project-yellow)](https://public.tableau.com/app/profile/shayan.jamal/viz/Book1_17619673221770/Dashboard1)
 ![Tableau Dashboard](Assets/Images/project%201(tableau).png)
 
