@@ -67,15 +67,3 @@ Description:
 A comprehensive SQL-based analysis covering inventory tracking, customer segmentation, genre sales, revenue patterns, stock remaining, and some more analytical queries. Demonstrates expertise in joins, aggregations, and business intelligence.
 [![VIEW](https://img.shields.io/badge/VIEW-Project-yellow)](https://github.com/Shayan-Jamal/Bookstore-SQL-Project)
 ![SQL Project 1](Assets/Images/project%201%20(sql).png)
-
----
-
-📞 Contact
-
-Feel free to reach out!
-
-Email: your-email@example.com
-
-LinkedIn: https://linkedin.com/in/yourprofile
-
-GitHub: https://github.com/yo
