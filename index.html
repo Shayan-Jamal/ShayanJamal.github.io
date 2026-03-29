@@ -3,127 +3,132 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Shayan Jamal | Data Analyst Portfolio</title>
+    <title>Shayan Jamal | Data Analyst</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap" rel="stylesheet">
     <style>
         body { font-family: 'Inter', sans-serif; }
+        .project-card:hover { transform: translateY(-8px); transition: all 0.3s ease; }
+        .bg-glass { background: rgba(15, 23, 42, 0.8); backdrop-filter: blur(12px); }
     </style>
 </head>
-<body class="bg-slate-50 text-slate-900 antialiased">
+<body class="bg-[#0f172a] text-slate-200 antialiased">
 
-    <nav class="fixed w-full bg-white/80 backdrop-blur-md z-50 border-b border-slate-200">
+    <nav class="fixed w-full bg-glass z-50 border-b border-slate-800">
         <div class="max-w-6xl mx-auto px-6 py-4 flex justify-between items-center">
-            <span class="text-xl font-bold text-blue-600">SJ.</span>
-            <div class="hidden md:flex space-x-8 text-sm font-semibold text-slate-600">
-                <a href="#about" class="hover:text-blue-600 transition-colors">About</a>
-                <a href="#skills" class="hover:text-blue-600 transition-colors">Skills</a>
-                <a href="#projects" class="hover:text-blue-600 transition-colors">Projects</a>
-                <a href="#contact" class="hover:text-blue-600 transition-colors">Contact</a>
+            <span class="text-2xl font-bold bg-gradient-to-r from-blue-400 to-cyan-400 bg-clip-text text-transparent">SJ.</span>
+            <div class="hidden md:flex space-x-8 text-sm font-medium">
+                <a href="#about" class="hover:text-blue-400 transition-colors">About</a>
+                <a href="#skills" class="hover:text-blue-400 transition-colors">Skills</a>
+                <a href="#projects" class="hover:text-blue-400 transition-colors">Projects</a>
+                <a href="#contact" class="text-blue-400 border border-blue-400/30 px-4 py-1 rounded-full hover:bg-blue-400/10 transition-all">Hire Me</a>
             </div>
         </div>
     </nav>
 
-    <header id="about" class="pt-40 pb-20 px-6 max-w-6xl mx-auto">
-        <div class="max-w-3xl">
-            <h1 class="text-5xl md:text-6xl font-extrabold text-slate-900 mb-6">Shayan Jamal</h1>
-            <h2 class="text-2xl font-semibold text-blue-600 mb-6 flex items-center">
-                <span class="bg-blue-100 text-blue-600 px-3 py-1 rounded-md text-sm uppercase tracking-wider mr-3">Available for Hire</span>
-                Data Analyst
-            </h2>
-            <p class="text-lg text-slate-600 leading-relaxed mb-8">
-                I transform raw data into clear, meaningful, and actionable business insights. Specializing in <span class="font-bold text-slate-900">Excel, SQL, and Tableau</span> to build end-to-end analytics and interactive storytelling dashboards.
+    <header id="about" class="pt-48 pb-24 px-6 max-w-6xl mx-auto">
+        <div class="max-w-4xl">
+            <p class="text-blue-400 font-mono tracking-widest mb-4">DATA ANALYST & BI DEVELOPER</p>
+            <h1 class="text-6xl md:text-8xl font-extrabold text-white mb-8 tracking-tighter">
+                Shayan <span class="text-slate-500">Jamal.</span>
+            </h1>
+            <p class="text-xl text-slate-400 leading-relaxed mb-10 max-w-2xl">
+                Transforming raw data into <span class="text-white border-b-2 border-blue-500/50">actionable business insights</span>. Expert in Excel, SQL, and Tableau.
             </p>
-            <div class="flex gap-4">
-                <a href="#projects" class="bg-slate-900 text-white px-8 py-3 rounded-lg font-bold hover:bg-slate-800 transition-all">View Projects</a>
-                <a href="https://github.com/Shayan-Jamal" target="_blank" class="border border-slate-300 px-8 py-3 rounded-lg font-bold hover:bg-slate-100 transition-all">GitHub Profile</a>
+            <div class="flex flex-wrap gap-6">
+                <a href="#projects" class="bg-blue-600 hover:bg-blue-700 text-white font-bold py-4 px-10 rounded-xl transition-all shadow-xl shadow-blue-500/20">
+                    Explore Projects
+                </a>
+                <a href="https://github.com/Shayan-Jamal" target="_blank" class="flex items-center gap-3 border border-slate-700 hover:bg-slate-800 py-4 px-10 rounded-xl font-bold transition-all">
+                    GitHub Profile
+                </a>
             </div>
         </div>
     </header>
 
-    <section id="skills" class="py-20 bg-white border-y border-slate-200">
+    <section id="skills" class="py-24 bg-slate-900/50 border-y border-slate-800">
         <div class="max-w-6xl mx-auto px-6">
-            <h3 class="text-2xl font-bold mb-12 text-slate-900">🚀 Technical Skills</h3>
-            <div class="grid md:grid-cols-3 gap-10">
-                <div>
-                    <h4 class="font-bold text-blue-600 mb-4 font-mono uppercase tracking-tighter">Excel</h4>
-                    <p class="text-sm text-slate-600 leading-relaxed">Pivot Tables, Slicers, Charts, Dashboards, and Data Cleaning (No VBA/Macros required).</p>
+            <h3 class="text-3xl font-bold text-white mb-16">Technical Arsenal</h3>
+            <div class="grid md:grid-cols-3 gap-8">
+                <div class="group p-8 bg-slate-900 rounded-2xl border border-slate-800 hover:border-blue-500/50 transition-colors">
+                    <div class="w-12 h-12 bg-blue-500/10 rounded-lg flex items-center justify-center mb-6 text-blue-400 group-hover:bg-blue-500 group-hover:text-white transition-all">
+                        <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-width="2" d="M9 17v-2m3 2v-4m3 4v-6m2 10H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"></path></svg>
+                    </div>
+                    <h4 class="text-xl font-bold text-white mb-4">Advanced Excel</h4>
+                    <p class="text-slate-400 text-sm leading-relaxed">Dynamic Dashboards, Pivot Tables, and Data Cleaning without the need for VBA.</p>
                 </div>
-                <div>
-                    <h4 class="font-bold text-blue-600 mb-4 font-mono uppercase tracking-tighter">SQL</h4>
-                    <p class="text-sm text-slate-600 leading-relaxed">Joins, Window Functions, Subqueries, and complex Analytics Queries for business intelligence.</p>
+                <div class="group p-8 bg-slate-900 rounded-2xl border border-slate-800 hover:border-emerald-500/50 transition-colors">
+                    <div class="w-12 h-12 bg-emerald-500/10 rounded-lg flex items-center justify-center mb-6 text-emerald-400 group-hover:bg-emerald-500 group-hover:text-white transition-all">
+                        <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-width="2" d="M4 7v10c0 2.21 3.582 4 8 4s8-1.79 8-4V7M4 7c0 2.21 3.582 4 8 4s8-1.79 8-4M4 7c0-2.21 3.582-4 8-4s8 1.79 8 4m0 5c0 2.21-3.582 4-8 4s-8-1.79-8-4"></path></svg>
+                    </div>
+                    <h4 class="text-xl font-bold text-white mb-4">Complex SQL</h4>
+                    <p class="text-slate-400 text-sm leading-relaxed">Window functions, subqueries, and multi-table joins for deep analytical queries.</p>
                 </div>
-                <div>
-                    <h4 class="font-bold text-blue-600 mb-4 font-mono uppercase tracking-tighter">Tableau</h4>
-                    <p class="text-sm text-slate-600 leading-relaxed">Interactive Dashboards, BI Storytelling, and KPI visualization for organizational growth.</p>
+                <div class="group p-8 bg-slate-900 rounded-2xl border border-slate-800 hover:border-orange-500/50 transition-colors">
+                    <div class="w-12 h-12 bg-orange-500/10 rounded-lg flex items-center justify-center mb-6 text-orange-400 group-hover:bg-orange-500 group-hover:text-white transition-all">
+                        <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-width="2" d="M11 3.055A9.001 9.001 0 1020.945 13H11V3.055z"></path><path stroke-width="2" d="M20.488 9H15V3.512A9.025 9.025 0 0120.488 9z"></path></svg>
+                    </div>
+                    <h4 class="text-xl font-bold text-white mb-4">Tableau BI</h4>
+                    <p class="text-slate-400 text-sm leading-relaxed">End-to-end dashboarding and visual storytelling for executive decision making.</p>
                 </div>
             </div>
         </div>
     </section>
 
-    <section id="projects" class="py-20 px-6 max-w-6xl mx-auto">
-        <h3 class="text-2xl font-bold mb-12 text-slate-900">📂 Featured Analytics Projects</h3>
+    <section id="projects" class="py-24 px-6 max-w-6xl mx-auto">
+        <h3 class="text-3xl font-bold text-white mb-16">Selected Projects</h3>
         
-        <div class="grid md:grid-cols-2 gap-8">
+        <div class="grid md:grid-cols-2 gap-12">
             
-            <div class="bg-white border border-slate-200 rounded-xl overflow-hidden shadow-sm hover:shadow-md transition-shadow">
+            <div class="project-card group bg-slate-900 rounded-3xl overflow-hidden border border-slate-800 shadow-2xl">
+                <img src="Assets/Images/Project 2(excel).png" class="w-full h-64 object-cover" alt="E-commerce Dashboard">
                 <div class="p-8">
-                    <span class="text-xs font-bold text-blue-600 uppercase tracking-widest">Excel Dashboard</span>
-                    <h4 class="text-xl font-bold text-slate-900 mt-2 mb-4">E-commerce Sales & Profit Dashboard</h4>
-                    <p class="text-slate-600 text-sm mb-6">Built an Excel dashboard to visualize sales insights. Depicted Total Sales and Profit with interactive slicers for months, years, and state performance.</p>
-                    <a href="https://github.com/Shayan-Jamal/E-commerce-store-sales-dashboard-project-" target="_blank" class="text-sm font-bold text-slate-900 border-b-2 border-blue-400 hover:border-blue-600 transition-all pb-1 inline-block">View Case Study →</a>
+                    <h4 class="text-2xl font-bold text-white mb-4">E-commerce Sales Dashboard</h4>
+                    <p class="text-slate-400 mb-8 leading-relaxed">Excel-based visualization of profit and sales across months and states using dynamic slicers.</p>
+                    <a href="https://github.com/Shayan-Jamal/E-commerce-store-sales-dashboard-project-" class="inline-flex items-center text-blue-400 font-bold hover:underline">View Project →</a>
                 </div>
             </div>
 
-            <div class="bg-white border border-slate-200 rounded-xl overflow-hidden shadow-sm hover:shadow-md transition-shadow">
+            <div class="project-card group bg-slate-900 rounded-3xl overflow-hidden border border-slate-800 shadow-2xl">
+                <img src="Assets/Images/Project 1 (excel).png" class="w-full h-64 object-cover" alt="Home Decor Dashboard">
                 <div class="p-8">
-                    <span class="text-xs font-bold text-blue-600 uppercase tracking-widest">Excel Analysis</span>
-                    <h4 class="text-xl font-bold text-slate-900 mt-2 mb-4">Home Decor Sales Performance</h4>
-                    <p class="text-slate-600 text-sm mb-6">Visualized product performance through tables of top 5 products by sales and profit. Used pivot tables and dynamic charts for actionable insights.</p>
-                    <a href="https://github.com/Shayan-Jamal/Home-Decor-Project" target="_blank" class="text-sm font-bold text-slate-900 border-b-2 border-blue-400 hover:border-blue-600 transition-all pb-1 inline-block">View Case Study →</a>
+                    <h4 class="text-2xl font-bold text-white mb-4">Home Decor Performance</h4>
+                    <p class="text-slate-400 mb-8 leading-relaxed">In-depth Excel analysis of top 5 products and category performance using pivot tables.</p>
+                    <a href="https://github.com/Shayan-Jamal/Home-Decor-Project" class="inline-flex items-center text-blue-400 font-bold hover:underline">View Project →</a>
                 </div>
             </div>
 
-            <div class="bg-white border border-slate-200 rounded-xl overflow-hidden shadow-sm hover:shadow-md transition-shadow">
+            <div class="project-card group bg-slate-900 rounded-3xl overflow-hidden border border-slate-800 shadow-2xl">
+                <img src="Assets/Images/project 1(tableau).png" class="w-full h-64 object-cover" alt="Tableau HR">
                 <div class="p-8">
-                    <span class="text-xs font-bold text-blue-600 uppercase tracking-widest">Tableau BI</span>
-                    <h4 class="text-xl font-bold text-slate-900 mt-2 mb-4">HR Tableau BI Dashboard</h4>
-                    <p class="text-slate-600 text-sm mb-6">Built a visually rich HR dashboard containing KPIs of total employees and gender division depicted by donut charts and bar graphs.</p>
-                    <a href="https://public.tableau.com/app/profile/shayan.jamal/viz/Book1_17619673221770/Dashboard1" target="_blank" class="text-sm font-bold text-slate-900 border-b-2 border-blue-400 hover:border-blue-600 transition-all pb-1 inline-block">View Dashboard →</a>
+                    <h4 class="text-2xl font-bold text-white mb-4">Tableau HR BI Dashboard</h4>
+                    <p class="text-slate-400 mb-8 leading-relaxed">Interactive KPI tracking for employee demographics and gender distribution.</p>
+                    <a href="https://public.tableau.com/app/profile/shayan.jamal/viz/Book1_17619673221770/Dashboard1" class="inline-flex items-center text-blue-400 font-bold hover:underline">View Dashboard →</a>
                 </div>
             </div>
 
-            <div class="bg-white border border-slate-200 rounded-xl overflow-hidden shadow-sm hover:shadow-md transition-shadow">
-                <div class="p-8">
-                    <span class="text-xs font-bold text-blue-600 uppercase tracking-widest">SQL Project</span>
-                    <h4 class="text-xl font-bold text-slate-900 mt-2 mb-4">End-to-End E-commerce SQL</h4>
-                    <p class="text-slate-600 text-sm mb-6">Analyzed customer behavior, revenue growth, and rating patterns. Identified loyal buyers and profitable product categories using advanced SQL.</p>
-                    <a href="https://github.com/Shayan-Jamal/E_commerce-Data-SQL-Project" target="_blank" class="text-sm font-bold text-slate-900 border-b-2 border-blue-400 hover:border-blue-600 transition-all pb-1 inline-block">View SQL Code →</a>
-                </div>
-            </div>
-
-            <div class="bg-white border border-slate-200 rounded-xl overflow-hidden shadow-sm hover:shadow-md transition-shadow md:col-span-2">
-                <div class="p-8">
-                    <span class="text-xs font-bold text-blue-600 uppercase tracking-widest">SQL Analytics</span>
-                    <h4 class="text-xl font-bold text-slate-900 mt-2 mb-4">Bookstore Sales & Inventory Analysis</h4>
-                    <p class="text-slate-600 text-sm mb-6">Comprehensive SQL analysis covering inventory tracking, customer segmentation, and genre sales. Demonstrates expertise in joins and aggregations.</p>
-                    <a href="https://github.com/Shayan-Jamal/Bookstore-SQL-Project" target="_blank" class="text-sm font-bold text-slate-900 border-b-2 border-blue-400 hover:border-blue-600 transition-all pb-1 inline-block">View SQL Code →</a>
+            <div class="project-card group bg-slate-900 rounded-3xl overflow-hidden border border-slate-800 shadow-2xl">
+                <img src="Assets/Images/project 2 (sql).png" class="w-full h-64 object-cover" alt="SQL Analysis">
+                <div class="p-6">
+                    <h4 class="text-2xl font-bold text-white mb-4">End-to-End SQL E-commerce</h4>
+                    <p class="text-slate-400 mb-8 leading-relaxed">Analysis of loyal buyers, profitable categories, and customer rating patterns.</p>
+                    <a href="https://github.com/Shayan-Jamal/E_commerce-Data-SQL-Project" class="inline-flex items-center text-blue-400 font-bold hover:underline">View Code →</a>
                 </div>
             </div>
 
         </div>
     </section>
 
-    <section id="contact" class="py-20 px-6 bg-slate-900 text-white text-center">
-        <h3 class="text-3xl font-bold mb-6">Let's Talk Data</h3>
-        <p class="text-slate-400 mb-10 max-w-xl mx-auto">Available for freelance data analysis and full-time business intelligence roles.</p>
-        <div class="flex flex-wrap justify-center gap-4">
-            <a href="mailto:your-email@example.com" class="bg-blue-600 text-white px-10 py-3 rounded-lg font-bold hover:bg-blue-500 transition-all">Send Email</a>
-            <a href="https://github.com/Shayan-Jamal" target="_blank" class="bg-white text-slate-900 px-10 py-3 rounded-lg font-bold hover:bg-slate-100 transition-all">GitHub</a>
+    <section id="contact" class="py-32 px-6 bg-blue-600 text-white text-center rounded-t-[3rem]">
+        <h3 class="text-4xl md:text-5xl font-bold mb-6">Let's build something data-driven.</h3>
+        <p class="text-blue-100 text-lg mb-12">I'm currently available for freelance projects and full-time roles.</p>
+        <div class="flex justify-center gap-6">
+            <a href="mailto:your-email@example.com" class="bg-white text-blue-600 px-10 py-4 rounded-2xl font-bold hover:scale-105 transition-transform">Send an Email</a>
+            <a href="https://github.com/Shayan-Jamal" class="bg-slate-900 text-white px-10 py-4 rounded-2xl font-bold hover:scale-105 transition-transform">GitHub</a>
         </div>
     </section>
 
-    <footer class="py-8 text-center text-xs text-slate-500 font-mono">
+    <footer class="bg-slate-900 py-12 text-center text-slate-500 text-sm">
         © 2026 SHAYAN JAMAL | DATA ANALYST
     </footer>
 
